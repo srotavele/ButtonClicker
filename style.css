@@ -1,0 +1,41 @@
+.left-buttons {
+  /* display: flex; */
+  justify-content: center;
+}
+
+.hapbutton {
+  border: solid 2px red;
+  background-color: wheat;
+  width: 100px;
+  height: 100px;
+  box-shadow: 4px 4px;
+}
+p {
+  font-size: x-large;
+  font-family: cursive;
+  font-weight: bold;
+  margin: auto;
+  padding: 6px;
+}
+
+.snoozebtn {
+  margin: 5px;
+  font-family: fantasy;
+  background-color: dodgerblue;
+  border: thin 2px whitesmoke;
+  box-shadow: 4px 4px black;
+  border-radius: 10%;
+  width: 100px;
+  height: 75px;
+  text-align: center;
+}
+
+.printbtn {
+  font-family: monospace;
+  border: solid 4px rgb(140, 56, 130);
+  background-color: rgb(179, 245, 211);
+  height: 75px;
+  width: 100px;
+  box-shadow: 4px 4px;
+  text-align: center;
+}
